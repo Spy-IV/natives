@@ -15,3 +15,6 @@ void ADD_BLIP_FOR_COORD(float x, float y, float z, Blip* pBlip);
 - **Blip*:** pBlip
 
 ## Description
+```cpp
+AddBlipForCoord(971.54187, -172.46872, 24.19872)
+```
