@@ -21,3 +21,6 @@ void ATTACH_PED_TO_OBJECT(Ped ped, Object obj, int pedbone, float x, float y, fl
 ### Results
 
 ## Description
+```cpp
+AttachPedToObject(GetPlayerChar(-1), objectid, 0x4C1, p2x, p2y, p2y, 1, 1, 1, 1)
+```
