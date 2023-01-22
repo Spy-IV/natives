@@ -12,5 +12,5 @@ void ADD_AMMO_TO_CHAR(Ped ped, uint weapon, uint amount);
 - **uint:** amount
 
 ### Results
-
+**Adds ammo to specific weapon of char
 ## Description
