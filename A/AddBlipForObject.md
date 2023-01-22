@@ -13,3 +13,6 @@ void ADD_BLIP_FOR_OBJECT(Object obj, Blip* pBlip);
 - **Blip*:** pBlip
 
 ## Description
+```cpp
+AddBlipForObject(objectid)
+```
