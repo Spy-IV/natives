@@ -13,3 +13,6 @@ void ADD_BLIP_FOR_CAR(Vehicle vehicle, Blip* pBlip);
 - **Blip*:** pBlip
 
 ## Description
+```cpp
+AddBlipForCar(GetCarCharIsUsing(GetPlayerChar(-1)))
+```
