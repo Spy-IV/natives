@@ -13,3 +13,7 @@ void ADD_SCORE(Player playerIndex, int score);
 ### Results
 
 ## Description
+```cpp
+AddScore(GetPlayerId(), 100)
+```
+- **Adds money to HUD**
