@@ -11,6 +11,11 @@ void ADD_AMMO_TO_CHAR(Ped ped, uint weapon, uint amount);
 - **uint:** weapon
 - **uint:** amount
 
+### Example
+```cpp
+AddAmmoToChar(GetPlayerChar(-1), 18, 60)
+```
+
 ### Results
 
 ## Description
