@@ -13,3 +13,6 @@ void ADD_BLIP_FOR_CHAR(Ped ped, Blip* pBlip);
 - **Blip*:** pBlip
 
 ## Description
+```cpp
+AddBlipForChar(GetPlayerChar(-1))
+```
