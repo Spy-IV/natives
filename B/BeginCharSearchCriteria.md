@@ -11,3 +11,7 @@ void BEGIN_CHAR_SEARCH_CRITERIA();
 ### Results
 
 ## Description
+***usage
+```cpp
+BeginCharSearchCriteria()
+```
